@@ -4,6 +4,8 @@
 
 - 🔭 I'm a programmer launching my career at [IBC - Instituto Brasileiro de Coaching](https://github.com/IBCCOACHING-DEV). I bring expertise in TypeScript, React, and Ruby on Rails to the table. Ready to code and create!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-duart&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aurelio-duart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-aurélio-duarte-bezerra-88535118b" height="30" width="40" /></a>
