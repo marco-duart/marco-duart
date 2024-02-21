@@ -48,24 +48,13 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-
-
-
-<!--END_SECTION:activity-->
-
+  <summary>:zap: GitHub Stats</summary>
+  ![GitHub stats](https://github-readme-stats-ten-theta-77.vercel.app/api?username=marco-duart&show_icons=true&count_private=true)
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![GitHub stats](https://github-readme-stats-ten-theta-77.vercel.app/api?username=marco-duart&show_icons=true&count_private=true)
-  <br />
+  <summary>:zap: Top Langs</summary>
   ![Top Langs](https://github-readme-stats-ten-theta-77.vercel.app/api/top-langs/?username=marco-duart&include_orgs=true&&layout=pie)
-
 </details>
 
 [instagram]: https://instagram.com/aurelio_duart
