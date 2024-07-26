@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marco Aurélio</h1>
 <h3 align="center">A fullstackdeveloper from Brazil</h3>
 
-- 🔭 I'm a programmer launching my career at [IBC - Instituto Brasileiro de Coaching](https://github.com/IBCCOACHING-DEV). I bring expertise in TypeScript, React, and Ruby on Rails to the table. Ready to code and create!
+- 🔭 I'm a programmer launching my career at [IBC - Instituto Brasileiro de Coaching](https://github.com/IBCCOACHING-DEV). I bring expertise in NestJs, React, and Ruby on Rails to the table. Ready to code and create!
 
 ---
 
