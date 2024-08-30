@@ -1,85 +1,57 @@
-# marco.duart
 <h1 align="center">Hi 👋, I'm Marco Aurélio</h1>
-<h3 align="center">A fullstackdeveloper from Brazil</h3>
+<h3 align="center">Fullstack Developer from Brazil | Creator of Innovative Solutions</h3>
 
-- 🔭 I'm a programmer launching my career at [IBC - Instituto Brasileiro de Coaching](https://github.com/IBCCOACHING-DEV). I bring expertise in NestJs, React, and Ruby on Rails to the table. Ready to code and create!
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aurelio-duart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-aurélio-duarte-bezerra-88535118b" height="30" width="40" /></a>
-<a href="https://instagram.com/aurelio_duart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aurelio_duart" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nest" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/> 
-  </a>
-  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/> 
-  </a>
-</p>
+### 🔭 About Me
 
----
+I am a fullstack developer with 2 years of practical experience, including 1 year in a company and 1 year in an immersive course. With a strong foundation in **JavaScript, TypeScript, React, Node.js, NestJS, Ruby on Rails**, and various other technologies, I am always eager to enhance my skills and contribute to challenging projects.
+
+Currently, I am applying my knowledge at [IBC - Instituto Brasileiro de Coaching](https://github.com/IBCCOACHING-DEV), where I am involved in innovative projects, delivering efficient and impactful solutions.
+
+### 💼 Experience and Technologies
+
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass
+- **Back-end:** Node.js, NestJS, Ruby on Rails, Express.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools and DevOps:** Docker, Git, GitHub, Postman, GraphQL
+- **Design and UX/UI:** Figma, Canva
+
+### 📈 GitHub Stats
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![GitHub stats](https://github-readme-stats-ten-theta-77.vercel.app/api?username=marco-duart&show_icons=true&count_private=true)
+  ![GitHub stats](https://github-readme-stats-ten-theta-77.vercel.app/api?username=marco-duart&show_icons=true&count_private=true&theme=tokyonight)
   <br />
 </details>
-<details>
-  <summary>:zap: Top Langs</summary>
-  
-  ![Top Langs](https://github-readme-stats-ten-theta-77.vercel.app/api/top-langs/?username=marco-duart&include_orgs=true&&layout=pie)
 
+<details>
+  <summary>:zap: Top Languages</summary>
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-duart&layout=compact&theme=tokyonight)
+  
 </details>
 
-[instagram]: https://instagram.com/aurelio_duart
-[linkedin]: https://linkedin.com/in/aurelio-duart
+### 🌐 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/aurelio-duart)
+- [Instagram](https://instagram.com/aurelio_duart)
+
+---
+
+I am always open to new opportunities and collaborations. If you are looking for a developer who is passionate about technology and dedicated to delivering high-quality solutions, feel free to reach out!
+
