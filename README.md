@@ -18,9 +18,9 @@
 
 ### 🔭 About Me
 
-I am a fullstack developer with 2 years of practical experience, including 1 year in a company and 1 year in an immersive course. With a strong foundation in **JavaScript, TypeScript, React, Node.js, NestJS, Ruby on Rails**, and various other technologies, I am always eager to enhance my skills and contribute to challenging projects.
+I'm a fullstack developer with over two years of hands-on experience, specializing in JavaScript, TypeScript, React, Node.js, NestJS, Ruby on Rails, and more. I am passionate about leveraging technology to create innovative solutions and am always eager to tackle new challenges.
 
-Currently, I am applying my knowledge at [IBC - Instituto Brasileiro de Coaching](https://github.com/IBCCOACHING-DEV), where I am involved in innovative projects, delivering efficient and impactful solutions.
+Currently, I contribute my skills at [IBC - Instituto Brasileiro de Coaching](https://github.com/IBCCOACHING-DEV), where I am involved in pioneering projects and crafting impactful solutions.
 
 ### 💼 Experience and Technologies
 
@@ -53,5 +53,4 @@ Currently, I am applying my knowledge at [IBC - Instituto Brasileiro de Coaching
 
 ---
 
-I am always open to new opportunities and collaborations. If you are looking for a developer who is passionate about technology and dedicated to delivering high-quality solutions, feel free to reach out!
-
+I'm always open to new opportunities and collaborations. If you’re searching for a developer who blends technical expertise with a passion for innovation, let's connect!
