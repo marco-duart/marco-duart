@@ -35,14 +35,14 @@ Currently, I contribute my skills at [IBC - Instituto Brasileiro de Coaching](ht
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![GitHub stats](https://github-readme-stats-ten-theta-77.vercel.app/api?username=marco-duart&show_icons=true&count_private=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats-nekt-git-master-marcoduarts-projects.vercel.app/api?username=marco-duart&show_icons=true&count_private=true&theme=tokyonight)
   <br />
 </details>
 
 <details>
   <summary>:zap: Top Languages</summary>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-duart&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats-nekt-git-master-marcoduarts-projects.vercel.app/api/top-langs/?username=marco-duart&layout=compact&theme=tokyonight)
   
 </details>
 
