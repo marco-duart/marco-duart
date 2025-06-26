@@ -24,7 +24,7 @@ Currently, I contribute my skills at [IBC - Instituto Brasileiro de Coaching](ht
 
 ### 💼 Experience and Technologies
 
-- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, React Native, Next.js, Tailwind CSS, Sass
 - **Back-end:** Node.js, NestJS, Ruby on Rails, Express.js
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools and DevOps:** Docker, Git, GitHub, Postman, GraphQL
