@@ -49,7 +49,7 @@ Currently, I contribute my skills at [IBC - Instituto Brasileiro de Coaching](ht
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/aurelio-duart)
-- [Portfolio](https://marco-aurelio.vercel.app)
+- [Portfolio](https://www.marcoaurelioduartebezerra.com.br)
 
 ---
 
